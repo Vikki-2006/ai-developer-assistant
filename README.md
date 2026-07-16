@@ -7,7 +7,7 @@ A clean, modular, and professional Python command-line interface (CLI) assistant
 
 Built as **Day 1** of a **"1 Project Per Day"** challenge, the architecture is designed from the ground up to support future developer productivity tools (explaining, debugging, and testing code).
 
----
+___
 
 ## 🚀 Features (Day 1)
 
