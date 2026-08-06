@@ -1,5 +1,4 @@
 
-srdfgf
 
 # AI Developer Assistant CLI
 
